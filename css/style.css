@@ -1,0 +1,23 @@
+.logo-img{
+    height: 70px;
+    width: auto;
+}
+.cascading-right {
+margin-right: -50px;
+}
+@media (max-width: 991.98px) {
+    .cascading-right {
+        margin-right: 0;
+    }
+}
+.error{
+    color: red;
+    font-size: small;
+}
+.img2{
+    height: 250px;
+    width: 400px;
+}
+.table{
+    padding: 0% 7% 0% 7%;
+}

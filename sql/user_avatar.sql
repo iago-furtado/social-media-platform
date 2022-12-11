@@ -1,0 +1,5 @@
+CREATE TABLE user_avatar(
+	avatarID INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
+    avatarName VARCHAR (125) NOT NULL,
+    avatarBio VARCHAR (125) NOT NULL
+);
